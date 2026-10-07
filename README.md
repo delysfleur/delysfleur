@@ -1,5 +1,9 @@
 
 
+<p align="center">
+  <img width="200" alt="Yves Saint Laurent" src="https://github.com/user-attachments/assets/3fce735d-ed93-426a-bfe3-840369b93c75" />
+</p>
+
 <table align="center">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/d4320df8-b5e6-46ec-8c6f-11d42c4a5ac0" alt="Eiffel Tower Stamp" width="100"></td>
