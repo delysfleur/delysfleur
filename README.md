@@ -23,7 +23,7 @@
 <p align="center">“𝐒𝐨 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐚 𝐰𝐨𝐫𝐥𝐝 𝐨𝐟 𝐩𝐢𝐞𝐭𝐲 𝐈 𝐦𝐚𝐝𝐞 𝐦𝐲 𝐰𝐚𝐲 𝐭𝐨 𝐒𝐞𝐛𝐚𝐬𝐭𝐢𝐚𝐧.”</p>
 
 <p align="center">
-  <img width="70" alt="Crystal" src="https://github.com/user-attachments/assets/930319bd-95e0-4f99-9f12-3d95338aeb1b" />
+  <img width="90" alt="Crystal" src="https://github.com/user-attachments/assets/930319bd-95e0-4f99-9f12-3d95338aeb1b" />
 </p>
 
 <table align="center">
@@ -35,14 +35,14 @@
 </table>
 
 <p align="center">
+  <img width="150" alt="Sherlocks" src="https://github.com/user-attachments/assets/939092ee-b1a6-4df9-b2ed-15620ba293c9" />
+</p>
+
+<p align="center">
   <img width="500" alt="Sherlock Holmes" src="https://github.com/user-attachments/assets/2e59295b-fc7d-425d-ba84-a3146c706d15" />
 </p>
 
 <p align="center">“𝐆𝐨𝐨𝐝 𝐨𝐥𝐝 𝐖𝐚𝐭𝐬𝐨𝐧! 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐭𝐡𝐞 𝐨𝐧𝐞 𝐟𝐢𝐱𝐞𝐝 𝐩𝐨𝐢𝐧𝐭 𝐢𝐧 𝐚 𝐜𝐡𝐚𝐧𝐠𝐢𝐧𝐠 𝐚𝐠𝐞.”</p>
-
-<p align="center">
-  <img width="100" alt="Sherlocks" src="https://github.com/user-attachments/assets/939092ee-b1a6-4df9-b2ed-15620ba293c9" />
-</p>
 
 <table align="center">
   <tr>
